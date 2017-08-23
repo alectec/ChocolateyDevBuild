@@ -7,6 +7,7 @@ choco install resharper
 choco install ccleaner
 choco install linqpad
 choco install postman
+choco install fiddler4
 choco install nodejs.install
 choco install git
 choco install 7zip
