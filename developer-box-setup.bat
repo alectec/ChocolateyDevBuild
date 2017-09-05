@@ -24,5 +24,6 @@ choco install typescript-vs2015
 choco install evernote
 choco install cmder
 choco install docker
+choco install dotnetcore
 
 setx path "%path%;C:\Program Files (x86)\Git\bin\"
