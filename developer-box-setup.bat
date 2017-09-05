@@ -22,5 +22,7 @@ choco install paint.net
 choco install wireshark
 choco install typescript-vs2015
 choco install evernote
+choco install cmder
+choco install docker
 
 setx path "%path%;C:\Program Files (x86)\Git\bin\"
